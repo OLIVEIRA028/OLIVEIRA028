@@ -11,7 +11,7 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-![Snake animation](https://github.com/OLIVEIRA028/OLIVEIRA028/blob/output/github-contribution-grid-snake.svg?raw=true&theme=light)
+![Snake animation](https://github.com/OLIVEIRA028/OLIVEIRA028/blob/output/github-contribution-grid-snake.svg?raw=true&theme=dark)
 
 
 

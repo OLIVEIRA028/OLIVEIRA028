@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/OLIVEIRA028">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OLIVEIRA028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OLIVEIRA028&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OLIVEIRA028&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 ## Technologies I use daily and for studying

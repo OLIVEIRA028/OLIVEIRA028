@@ -2,7 +2,7 @@
 ## My name is João Paulo and my nickname is "OLIVEIRA028"!
 <p align="center">
 <a href="https://github.com/OLIVEIRA028">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OLIVEIRA028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OLIVEIRA028&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OLIVEIRA028&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
